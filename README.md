@@ -1,8 +1,10 @@
 # testing-repo
-
+My first repo
 
 
 new 
-user code
+user
 yushiqian vivienne
 netid  syu44
+
+I love :coffee:
